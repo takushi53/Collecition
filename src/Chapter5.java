@@ -6,8 +6,6 @@ import java.util.Collections;
 
 public class Chapter5 {
 	public static void main(String[] args) throws IOException {
-		Task task = new Task();
-
 		LocalDate day1 = LocalDate.of(2021, 10, 21);
 		LocalDate day2 = LocalDate.of(2021, 9, 15);
 		LocalDate day3 = LocalDate.of(2021, 12, 04);
